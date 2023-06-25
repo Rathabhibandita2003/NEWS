@@ -1,0 +1,49 @@
+[{
+    "name": "Election scene",
+    "price": "2019",
+    "detail": "Election parthiptra dakha; prakriya open",
+    "image": "./r1.jpg"
+  },
+  {
+    "name": "Documentary 1",
+    "price": "2016",
+    "detail": "Life story of M.Sudhakar",
+    "image": "./r2.jpg"
+  },
+  {
+    "name": "Documetary 2",
+    "price": "2013",
+    "detail": "Calamity",
+    "image": "./r3.jpg"
+  },
+  {
+    "name": "Documentary 3",
+    "price": "2012",
+    "detail": "6th Feb incident",
+    "image": "./r4.jpg"
+  },
+  {
+    "name": "Ama balasore",
+    "price": "2013",
+    "detail": "23rd feb",
+    "image": "./r5.jpg"
+  },
+  {
+    "name": "Kinnara samaj",
+    "price": "2018",
+    "detail": "6th March",
+    "image": "./r6.jpg"
+  },
+  {
+    "name": "Salabani",
+    "price": "2013",
+    "detail": "7th August",
+    "image": "./r7.jpg"
+  },
+  {
+    "name": "CPIM ganadharana",
+    "price": "2013",
+    "detail": "13th  Feb",
+    "image": "./r8.jpg"
+  }
+]
